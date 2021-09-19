@@ -15,11 +15,11 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hello, I'm Park. I'm 23 years old. A software engineerwith 2 years of
-          experience in application design anddevelopment with a demonstrated
-          history ofworking in the financial services industry andsoftwarehouse
-          companies.I’m fast learning andworking hard , active and enthusiastic
-          and Able towork under pressure and flexible time
+          Hello, I&apos;m Park. I&apos;m 23 years old. A software engineerwith 2
+          years of experience in application design anddevelopment with a
+          demonstrated history ofworking in the financial services industry
+          andsoftwarehouse companies.I’m fast learning andworking hard , active
+          and enthusiastic and Able towork under pressure and flexible time
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{" "}
